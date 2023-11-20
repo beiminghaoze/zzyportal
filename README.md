@@ -9,7 +9,7 @@
 
 ## 获得Portal参数
 ①打开校园网认证页面，按F12调出开发者选项，切换到网络选项卡，这时点击登录后下面数据流会立即出现三个新的数据流"API_Login_SXZ.action",
-,"customerlogin.action"，"customerlogin.action"。右键，复制，复制为cURL(bash))。注意一定要选择复制为cURL(bash)；新建sh文件将他们依次粘贴进去。
+,"customerlogin.action"，"customerlogin.action"。右键→复制→复制为cURL(bash)。这里注意一定要选择复制为cURL(bash)；新建sh文件将他们依次粘贴进去。
 ## 获得终端ip参数
 OpenWrt中获取IP地址的命令  
 ```ifconfig | grep -A1 "eth0.2" | grep 'inet addr' |awk -F ':' '{print $2}'|awk '{print $1}'```
