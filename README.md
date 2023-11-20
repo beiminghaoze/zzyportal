@@ -12,7 +12,8 @@
 ,"customerlogin.action"，"customerlogin.action"。右键→复制→复制为cURL(bash)。这里注意一定要选择复制为cURL(bash)；新建sh文件将他们依次粘贴进去。
 ## 获得终端ip参数
 OpenWrt中获取IP地址的命令  
-```ifconfig | grep -A1 "eth0.2" | grep 'inet addr' |awk -F ':' '{print $2}'|awk '{print $1}'```
+```ifconfig | grep -A1 "eth0.2" | grep 'inet addr' |awk -F ':' '{print $2}'|awk '{print $1}'```   
+每个人网卡配置不一样，注意要把中间的eth0.2换成你对应的网卡。下文中我换成了eth1。
 ## 稍微修改一下增加ip地址，mac地址，用户名，密码等参数。
 就结束了，下面是成品。注意该脚本仅供参考，里面的用户名/密码等参数均为虚拟。  
 ```
