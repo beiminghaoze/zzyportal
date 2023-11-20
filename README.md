@@ -27,7 +27,7 @@ OpenWrt中获取IP地址的命令
   -H 'Cache-Control: no-cache' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H "Cookie: JSESSIONID=c5e4a3c8-d2ed-496b-a94e-aabffcde7be0; mac=${Usermac}" \
+  -H "Cookie: JSESSIONID=d1a53f28-516b-414a-b32a-22c323e99f9e; mac=${Usermac}" \
   -H 'Origin: http://10.10.10.10' \
   -H 'Pragma: no-cache' \
   -H "Referer: http://10.10.10.10/zzzyxy/html/auth.html?yzm=0&wlanacname=ZZZYJSXY&wlanacip=10.15.0.1&wlanuserip=${Userip}&mac=${Usermac}&url=" \
@@ -43,7 +43,7 @@ OpenWrt中获取IP地址的命令
   -H 'Cache-Control: no-cache' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H "Cookie: JSESSIONID=c5e4a3c8-d2ed-496b-a94e-aabffcde7be0; mac=${Usermac}" \
+  -H "Cookie: JSESSIONID=d1a53f28-516b-414a-b32a-22c323e99f9e; mac=${Usermac}" \
   -H 'Origin: http://10.10.10.10' \
   -H 'Pragma: no-cache' \
   -H "Referer: http://10.10.10.10/zzzyxy/html/auth.html?yzm=0&wlanacname=ZZZYJSXY&wlanacip=10.15.0.1&wlanuserip=${Userip}&mac=${Usermac}&url=" \
@@ -59,7 +59,7 @@ OpenWrt中获取IP地址的命令
   -H 'Cache-Control: no-cache' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H "Cookie: JSESSIONID=c5e4a3c8-d2ed-496b-a94e-aabffcde7be0; mac=${Usermac}" \
+  -H "Cookie: JSESSIONID=d1a53f28-516b-414a-b32a-22c323e99f9e; mac=${Usermac}" \
   -H 'Origin: http://10.10.10.10' \
   -H 'Pragma: no-cache' \
   -H "Referer: http://10.10.10.10/zzzyxy/html/auth.html?yzm=0&wlanacname=ZZZYJSXY&wlanacip=10.15.0.1&wlanuserip=${Userip}&mac=${Usermac}&url=" \
@@ -96,7 +96,7 @@ else
   -H 'Cache-Control: no-cache' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H "Cookie: JSESSIONID=c5e4a3c8-d2ed-496b-a94e-aabffcde7be0; mac=${Usermac}" \
+  -H "Cookie: JSESSIONID=d1a53f28-516b-414a-b32a-22c323e99f9e; mac=${Usermac}" \
   -H 'Origin: http://10.10.10.10' \
   -H 'Pragma: no-cache' \
   -H "Referer: http://10.10.10.10/zzzyxy/html/auth.html?yzm=0&wlanacname=ZZZYJSXY&wlanacip=10.15.0.1&wlanuserip=${Userip}&mac=${Usermac}&url=" \
@@ -112,7 +112,7 @@ else
   -H 'Cache-Control: no-cache' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H "Cookie: JSESSIONID=c5e4a3c8-d2ed-496b-a94e-aabffcde7be0; mac=${Usermac}" \
+  -H "Cookie: JSESSIONID=d1a53f28-516b-414a-b32a-22c323e99f9e; mac=${Usermac}" \
   -H 'Origin: http://10.10.10.10' \
   -H 'Pragma: no-cache' \
   -H "Referer: http://10.10.10.10/zzzyxy/html/auth.html?yzm=0&wlanacname=ZZZYJSXY&wlanacip=10.15.0.1&wlanuserip=${Userip}&mac=${Usermac}&url=" \
@@ -128,7 +128,7 @@ else
   -H 'Cache-Control: no-cache' \
   -H 'Connection: keep-alive' \
   -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-  -H "Cookie: JSESSIONID=c5e4a3c8-d2ed-496b-a94e-aabffcde7be0; mac=${Usermac}" \
+  -H "Cookie: JSESSIONID=d1a53f28-516b-414a-b32a-22c323e99f9e; mac=${Usermac}" \
   -H 'Origin: http://10.10.10.10' \
   -H 'Pragma: no-cache' \
   -H "Referer: http://10.10.10.10/zzzyxy/html/auth.html?yzm=0&wlanacname=ZZZYJSXY&wlanacip=10.15.0.1&wlanuserip=${Userip}&mac=${Usermac}&url=" \
