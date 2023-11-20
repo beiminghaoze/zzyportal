@@ -86,7 +86,6 @@ if wget --timeout=${timeout} --spider ${test_file_url} 2>/dev/null; then
   exit 0
 else
   echo "下载失败，执行 portal.sh 脚本。"
-  #!/bin/bash
 sleep 1
 
 Uip=$(ifconfig | grep -A1 "eth1" | grep 'inet addr' | awk -F ':' '{print $2}' | awk '{print $1}')
