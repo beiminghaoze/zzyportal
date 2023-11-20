@@ -70,7 +70,7 @@ curl 'http://10.10.10.10/customerlogin.action' \
   --compressed \
   --insecure
 ```
-另外的话可以加入网络检测脚本如果检测到网络不通那么便执行代码
+另外的话可以加入网络检测部分，如果检测到网络不通那么便执行代码。
 ```
 #!/bin/bash
 
@@ -145,7 +145,7 @@ fi
 ## 注意
 将脚本丢入openwrt中，使用corntab运行即可，但频率不要太频繁。
 ## 参考
-[OpenWrt自动登录Portal脚本](https://www.cnblogs.com/lxnchan/p/14988207.html)  
+[OpenWrt自动登录Portal脚本](https://www.cnblogs.com/lxnchan/p/14988207.html)
 [一种在openwrt路由器突破校园网web认证设备限制的方法](https://blog.csdn.net/liberal_wind/article/details/89882777)
 ## 特别感谢
 在具体实践中，出现了很多问题，在好友 乐航 的大力支持下本项目才得以成功运行，在此表示感谢。  
