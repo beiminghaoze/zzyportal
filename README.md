@@ -143,7 +143,7 @@ fi
 ```
  
 ## 注意
-将脚本丢入openwrt中，使用corntab运行即可，但频率不要太频繁。
+将脚本丢入openwrt中，使用crontab运行即可，但频率不要太频繁。
 ## 参考
 [OpenWrt自动登录Portal脚本](https://www.cnblogs.com/lxnchan/p/14988207.html)   
 [一种在openwrt路由器突破校园网web认证设备限制的方法](https://blog.csdn.net/liberal_wind/article/details/89882777)
